@@ -4,3 +4,5 @@ Welcome to file2
 adding second line
 
 adding third line
+
+adding fourth line in vi editor after pulling from git

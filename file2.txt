@@ -1,4 +1,6 @@
 
 Welcome to file2
 
-adding secong line
+adding second line
+
+adding third line
